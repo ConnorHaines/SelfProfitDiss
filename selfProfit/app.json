@@ -26,18 +26,20 @@
     "ios": {
       "config": {
         "googleMapsApiKey": "AIzaSyABLsg-SW3exZ9c-9kHM45LNi_xDqiepmU"
+      },
+      "bundleIdentifier": "com.selfprofit",
+      "buildNumber": "1.0.0"
     },
-    "bundleIdentifier": "com.selfprofit",
-    "buildNumber": "1.0.0"
-    },
-    "android": { 
+    "android": {
       "config": {
         "googleMaps": {
-            "apiKey": "AIzaSyBifFY0xmQga_cOxdFhaqd7fJlS66XSrMo"
+          "apiKey": "AIzaSyBifFY0xmQga_cOxdFhaqd7fJlS66XSrMo"
         }
+      },
+      "package": "com.selfprofit",
+      "versionCode": 1
     },
-    "package": "com.selfprofit",
-    "versionCode": 1
-    }
+    "description": "Application for Dissertation Connor Haines 17029531",
+    "githubUrl": "https://github.com/ConnorHaines/SelfProfitDiss"
   }
 }
